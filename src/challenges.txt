@@ -1,0 +1,9 @@
+1) Figuring out the use of wildcards that are executed later was an interesting challenge, although it
+didn't end up being so difficult
+
+2)Remembering how to write sql statements was, unfortunately, a challenge. I forgot a lot of it
+
+3)I feel like what I did with a 26 for loop and a char array of the alphabet was a kludge, but I cant think
+of any other way to do it. Theres probably an alphabet library or something
+
+4)I still don't really understand some of the code, or how the connecting works
