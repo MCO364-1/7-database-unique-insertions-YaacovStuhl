@@ -7,5 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="github.losizm.little.sql_2.12" level="project" />
+    <orderEntry type="library" exported="" name="adaptive" level="project" />
+    <orderEntry type="library" exported="" name="guicedee.services.mssql.jdbc" level="project" />
   </component>
 </module>
